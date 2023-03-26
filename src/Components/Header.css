@@ -1,0 +1,13 @@
+.bCount{
+    position: absolute;
+    right: 5%;
+    z-index: 1;
+    top: 20%;
+    background-color: blueviolet;
+    padding: 15px;
+    width: 20px;
+    /* height: 40px; */
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+}
